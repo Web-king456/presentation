@@ -1,0 +1,410 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/* banner start here*/
+.banner-content-item h1, h2 {
+    font-size: 24px;
+    text-align: center;
+}
+.b-divider {
+    border: 1.5px solid #ef0d33;
+    margin: 20px auto;
+}
+.banner-content p {
+    font-size: 16px;
+    margin: 20px 0px;
+    text-align: center;
+    letter-spacing: 0px;
+}
+.banner-button {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.banner-button a {
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 10px 39px;
+}
+.banner-icon {
+    transform: translate(-50%,-117%);
+}
+.banner-icon i {
+    font-size: 60px;
+}
+.single-item-img {
+    margin: 13px 0px;
+}
+.single-item-img img {
+     margin: 0px 0px;/
+}
+/* banner end here*/
+    
+/*    award start here*/
+    .award{
+    background-color: #f5f5f5;
+    padding: 3.125rem 0rem;
+}
+/*award start here*/
+    .slick-dots li {
+    margin: 0 0px;
+}
+.slick-dots li button:before { 
+    content: '';
+    background: rgb(239, 13, 51);
+    color: black;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-top: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+}
+
+/*award end here*/
+    
+/*    large start here*/
+    .large-content p{
+    letter-spacing: 0;
+}
+/*    large end here*/
+/*boosted start here*/
+.boosted-svg {
+    width: 160px;
+}
+.boosted-single-item {
+    text-align: center;
+    padding: 3rem 0;
+}
+.boosted-content h1 {
+    font-size: 2rem;
+}
+.divider {
+    margin: 17px auto;
+}
+.boosted-content p {
+    letter-spacing: 0px;
+    width: 100%;
+}
+/*boosted end here*/
+
+    
+/*testmoni start here*/
+.testmoni-content h1 {
+    font-size: 1.3rem;
+    line-height: 1.7rem;
+}
+/*testmoni end here*/
+    
+    
+/*    legal zoom start here*/
+.legal-single-item{
+        padding: 3rem 0;
+
+}
+/*    legal zoom end here*/
+    
+    
+    
+/*    hall mark start here*/
+.halmark-content {
+    padding: 0 0rem;
+}
+.halmark-content p {
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+/*    hall mark end here*/
+    
+    
+/*section contact start here*/
+.contact-title h1 {
+    font-weight: 300;
+    font-size: 2rem;
+}
+.custom-form-control, .custom-form-control-1 {
+    padding: 1.2rem 0.75rem;
+    outline: none;
+    font-weight: 300;
+    border-radius: 0;
+}
+.custom-button {
+    font-size: 1rem;
+}
+/*section contact end here*/
+    
+/*footer start here*/
+.footer-office {
+    margin: 0px 0px;
+}
+.f-office-content a {
+    font-size: 4rem;
+}
+address {
+    font-size: .9rem;
+    line-height: 1.5rem;
+
+}
+.f-office-content {
+    margin-top: 0px;
+}
+.copy-right a:nth-child(2) {
+    padding: 0px 1px;
+}
+/*footer end here*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*banner start here*/
+.banner-content-item h1, h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.b-divider {
+    border: 2px solid #ef0d33;
+    margin: 25px auto;
+}
+.banner-content p {
+    font-size: 16px;
+    text-align: center;
+}
+.banner-button {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.banner-button a {
+    font-size: 16px;
+    padding: 12px;
+}
+ .banner-icon {
+    transform: translate(-50%,-117%);
+}
+.banner-icon i {
+    font-size: 60px;
+}
+.single-item-img {
+    margin: 15px 0px;
+}
+/*banner end here*/
+    
+/*award start here*/
+.slick-dots li {
+    margin: 0 0px;
+}
+.slick-dots li button:before { 
+    content: '';
+    background: rgb(239, 13, 51);
+    color: black;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-top: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+}
+
+/*award end here*/
+    
+/*    boosted start here*/
+    .boosted-single-item {
+    text-align: center;
+    padding: 3rem 0;
+}
+.boosted-content h1 {
+    font-size: 2.875rem;
+}
+.divider {
+    margin: 14px auto;
+}
+.boosted-content p {
+    width: 100%;
+}
+/*    boosted end here*/
+    
+    
+/*    legal zoom start here*/
+.legal-single-item {
+    padding: 3rem;
+}
+/*    legal zoom end here*/
+    
+    
+/*    contact start here*/
+.custom-form-control, .custom-form-control-1 {
+    padding: 1.2rem 0.75rem;
+    font-weight: 300;
+    border-radius: 0px;
+}
+.custom-button {
+    font-size: 1rem;
+}
+.contact-title h1 {
+    font-weight: 300;
+    font-size: 2rem;
+}
+/*    contact end here*/
+    
+    
+/*    footer start here*/
+.footer-office {
+    margin: 0px 0px;
+}
+.f-office-content a {
+    font-size: 4rem;
+}
+address {
+    font-size: .9rem;
+    line-height: 1.5rem;
+
+}
+.f-office-content ul li i {
+    margin: 0 4px;
+}
+.copy-right {
+    margin-top: 20px;
+    text-align: center;
+}
+/*    footer end here*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*banner start here*/
+.banner-content-item h1, h2 {
+    font-size: 45px;
+}
+    .b-divider {
+    border: 2px solid #ef0d33;
+}
+.banner-content p {
+    font-size: 17px;
+}
+.banner-button a {
+    font-size: 16px;
+}
+.banner-icon i {
+    font-size: 90px;
+}
+/*    banner footer content start here*/
+.b-footer-content, .single-item-img {
+    margin: 30px 0px;
+}
+.b-footer-content p {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+ .single-item-img img {
+     margin: 0px 0px; 
+}
+    
+    
+    
+/*footer start here*/
+.footer-menu ul li a {
+    padding: 0px 20px;
+}
+.f-office-content a {
+    font-size: 5rem;
+}
+address {
+    font-size: 1rem;
+}
+.f-office-content ul li i {
+    margin: 0 1px;
+}
+/*footer end here*/
+    
+/*    banner footer content end here*/
+/*banner end here*/
+    
+/*award start here*/
+.slick-dots li {
+    margin: 0 0px;
+}
+.slick-dots li button:before { 
+    content: '';
+    background: rgb(239, 13, 51);
+    color: black;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-top: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+}
+
+/*award end here*/
+    
+    
+/*boosted start here*/
+.boosted-content h1 {
+    font-size: 3rem;
+}
+.boosted-content p {
+    width: 100%;
+}
+/*boosted end here*/
+    
+/*testmoni start here*/
+.testmoni-content h1 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+/*testmoni end here*/
+    
+/*    legal zoom start here*/
+.legal-single-item {
+    padding: 5rem;
+}
+/*    legal zoom end here*/
+    
+    
+/*    dojo start here*/
+    .dojo-single-item{
+    padding: 5rem 0;
+}
+/*    dojo end here*/
+    
+    
+    /*    section contact start here*/
+.custom-form-control, .custom-form-control-1 {
+    padding: 1.3rem 0.75rem;
+    letter-spacing: 1px;
+}
+/*    section contact end here*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*boosted start here*/
+.boosted-content h1 {
+    font-size: 2.875rem;
+}
+.boosted-content p {
+    width: 100%;
+}
+/*boosted end here*/
+}
+
+
+/*testmoni start here*/
+/*testmoni end here*/
+
+
+/*dojo start here*/
+.dojo-fixed-img {
+    width: 60%;
+    top: 43%;
+    left: 47%;
+}
+/*dojo end here*/
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+/*banner start here*/
+.b-footer-content,.single-item-img {
+margin-top: 60px;    
+}
+/*banner end here*/
+}
